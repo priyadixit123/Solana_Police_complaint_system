@@ -4,9 +4,12 @@ A decentralized system for registering offices and employees, allowing women to 
 
 # Features
 
- Private Complaint Submission   
+ Private Complaint Submission 
+ 
  Office Registration by Admin
+ 
  Employee Registration (with wallet-based authority)
+ 
  file private harassment complaints
 
  
